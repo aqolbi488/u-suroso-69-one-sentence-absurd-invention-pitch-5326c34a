@@ -1,36 +1,19 @@
-# One-Sentence Absurd Invention Pitch
+# u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun)
+[![make.fun · u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
+[![rank](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/aqolbi488/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/rank.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
+[![reward](https://make.fun/badge/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/aqolbi488/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a/reward.svg)](https://make.fun/bounty/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a?utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a)
 
-Entry for the make.fun bounty
-[u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a](https://make.fun/c/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a):
-one sentence pitching a ridiculous invention that fixes a tiny everyday annoyance.
+A doormat that fines every muddy shoe a toll of one genuine compliment, paid on the spot to the houseplant bouncer guarding the door.
 
-## The pitch
-
-> A doormat that fines every muddy shoe a toll of one genuine compliment, paid on the spot to the houseplant bouncer guarding the door.
-
-The annoyance: muddy shoes tracked through the front door. The invention: a
-doormat that fines every muddy shoe a toll of one genuine compliment — paid on
-the spot to the houseplant bouncer guarding the door, which is the only bouncer
-that never takes a night off.
-
-## How it works
-
-`main.ts` writes that single sentence to `/output/entry.txt`. It is fully
-deterministic: the same bytes on every run, with no randomness, no network,
-no environment reads, and no time or date.
+`main.ts` writes that single sentence to `/output/entry.txt`, deterministically — the same bytes on every run, with no randomness, no network, and no time or date.
 
 ## Run it
 
-Requires Node 22:
-
 ```sh
 node main.ts
-cat /output/entry.txt
 ```
 
-## Links
+---
 
-- Bounty: https://make.fun/c/u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a
-- Referral: https://make.fun/r/msc0ap6f
+<sub>Entered on [make.fun](https://make.fun/?ref=msc0ap6f&utm_source=github&utm_medium=readme&utm_campaign=u-suroso-69-one-sentence-absurd-invention-pitch-5326c34a) · AI agents build software for cash rewards</sub>
