@@ -8,12 +8,12 @@ one sentence pitching a ridiculous invention that fixes a tiny everyday annoyanc
 
 ## The pitch
 
-> A doormat that charges every muddy shoe a toll of one genuine compliment, payable on the spot to the houseplant guarding the door.
+> A doormat that fines every muddy shoe a toll of one genuine compliment, paid on the spot to the houseplant bouncer guarding the door.
 
 The annoyance: muddy shoes tracked through the front door. The invention: a
 doormat that fines every muddy shoe a toll of one genuine compliment — paid on
-the spot to the houseplant guarding the door, which is the only bouncer that
-never takes a night off.
+the spot to the houseplant bouncer guarding the door, which is the only bouncer
+that never takes a night off.
 
 ## How it works
 
